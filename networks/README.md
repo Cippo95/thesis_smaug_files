@@ -1,4 +1,4 @@
-# Networks
+# Networks folder
 
 Inside a network folder there is the model written with SMAUG's Python APIs.
 
