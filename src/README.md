@@ -1,13 +1,29 @@
-#Configs folder
-It contains smv-accel.cfg the configuration of partitioning (size of registers)
-and optimization to do on the code to use the parallelism on functional units
-(loop unrolling, pipeline, flattening) and CACTI files to extimate power
-consumption from memories.
+# Source folder
+Here the files I have modified in SMAUG for my simulations.
 
-#SMAUG folder
-I use the same folder structure of smaug, copying my modified files for
-different configurations of processing elements and fixes to the code algorithm. 
+## Configs folder
+It contains:
+- `smv-accel_<pe_config>.cfg` that configures: 
+  - The partitioning of arrays/registers
+  - The optimization of the kernels to achieve the right parallelism of functional units
+- CACTI files to extimate power consumption from memories.
 
-I have already proposed the changes to the devs in emails but they want a pull 
-request, I will try to do it when I have free time, I'm not really that used to 
-GitHub.
+## SMAUG folder
+
+I need to modify sources and recompile SMAUG to achieve different configurations.
+
+I use the same folder structure of SMAUG.
+
+I also modified the matrix multiply kernel, because from my tests the original one can't parallelize functional units correctly.
+
+Run: `bash set_pe_configs.sh smv_<pe_config>` to copy the configurations files and build SMAUG.
+
+`get_pe_configs.sh` is deprecated: it was made because at first I thought I would modify the sources and copy back the configuration (giving it a name); at the end I have directly modified the code from this folder and copied it back to SMAUG's sources (it is smarter).
+
+## Aladdin configuration
+
+The original `aladdin_se.py` in gem5-Aladdin and SMAUG lacks the code to set the cpu clock: in simulation it gets the system clock.
+
+I have fixed this behavior (simply following gem5 guidelines) and share my configuration.
+
+Use it to replace the file here: `/workspace/gem5-aladdin/configs/aladdin/aladdin_se.py`
