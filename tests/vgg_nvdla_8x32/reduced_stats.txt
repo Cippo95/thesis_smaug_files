@@ -1,0 +1,1105 @@
+---------- Begin Simulation Statistics ----------
+# Stats desc: Network start
+final_tick                               376356951200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    17918400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   16336                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    44796                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     10146615                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                    2625000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                21959115                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      17838000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               376387234000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    30282800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   16754                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    75707                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                      9083990                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                    2290000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                19388990                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      30345000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               376391582400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     4348400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                    7294                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    10871                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       750298                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                     460000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                 2820298                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       4264000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               376827333200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   435750800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles           58752                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                109426                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   40734                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    72600                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles              1016777                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                    335575283                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   27350000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat               458650283                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     435807500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               377708718800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   881385600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   18786                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                  2203464                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     58029250                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   42000000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat               247029250                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     881417000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               377711056800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2338000                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      52                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     5845                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       443250                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                     100000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  893250                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2070500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               378221383600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   510326800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                    2950                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                  1275817                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     31556500                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   26155000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat               149254000                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     510595000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               379362089600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                  1140706000                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles          248832                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                461598                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     586                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    50042                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles              2801723                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                   1053906076                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   78880000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat              1408866076                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                    1140428500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               380104848400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   742758800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     596                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                  1856897                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     53340995                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   41035000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat               237998495                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     742375500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               380107945200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     3096800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     884                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     7742                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       964000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                     175000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                 1751500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       3710500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               380753513600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   645568400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      80                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                  1613921                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     35094300                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   20685000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat               128176800                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     645597500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               380874282000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   120768400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles           61440                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                109249                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   17473                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    28924                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles               272997                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     71562350                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                    6010000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                98607350                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     120782500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               380874389200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      107200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      11                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                      268                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                        36000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                       5000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                   58500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                         23000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               380876853600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2464400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                       2                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     6161                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       336000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      85000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  718500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2258500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               380877689200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      835600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                       8                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     2089                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       186750                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      60000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  456750                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       1103000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               381424031600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   546342400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles           92160                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                180803                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     181                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    27986                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles              1337870                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                    511339649                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   38760000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat               685759649                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     524262000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               381809228800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   385197200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     345                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   962993                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     36189685                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   20495000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat               128417185                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     406441000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               381811600400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2371600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                       2                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     5929                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       202500                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      60000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  472500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2923000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               382054450800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   242850400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                    1411                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   607126                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     11252600                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   10440000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                58232600                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     243104500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               383176282000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                  1121831200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles          208896                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                397748                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     506                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    36204                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles              2768374                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                   1034768449                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   77405000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat              1383090949                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                    1099500500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               383443243600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   266961600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   40213                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   667404                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     45889852                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   20450000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat               137914852                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     288668500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               383445381200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2137600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                     5344                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                        86000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      65000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  378500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2767500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               383631240000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   185858800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     806                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   464647                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                      8503600                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   10335000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                55011100                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     185257500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               383687206400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    55966400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles           30720                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                 53189                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     127                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     6995                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles               132921                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     32210550                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                    2640000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                44090550                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      56290500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               383687239600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                       33200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                       83                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                            0                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                          0                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                       0                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                             0                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               383689786800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2547200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                     6368                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       268800                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      65000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  561300                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2642000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               383690627600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      840800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      11                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     2102                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       241000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      55000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  488500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       1045500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               384650947200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   960319600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles          239616                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                481135                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      36                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   109949                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles              2290850                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                   1312412335                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                  102010000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat              1771457335                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     959849500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               385047488000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   396540800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      37                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   991352                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     18035100                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   10390000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                64790100                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     396228000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               385049774800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2286800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                     5717                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       307500                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      55000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  555000                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2854500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               385050554400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      779600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                       8                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     1949                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       113750                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      55000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  361250                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       1030500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               386874994400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                  1824440000                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles          466944                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                910176                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      35                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    98478                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles              4462622                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                   2508785241                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                  191110000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat              3368780241                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                    1823921500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               387005420400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   130426000                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   28008                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   326065                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     24089320                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   10225000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                70101820                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     130322000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               387007678000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2257600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                     5644                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       126000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      55000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  373500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2626000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               387008498400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      820400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                       2                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     2051                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       130750                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      55000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  378250                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       1080500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               388831481600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                  1822983200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles          466944                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                909342                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      57                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   105978                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles              4451480                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                   2511847994                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                  191130000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat              3371932994                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                    1808394000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               388963220000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   131738400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   26630                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   329346                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     25242567                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   10230000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                71277567                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     145686500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               388965274800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2054800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                       2                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     5137                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       103500                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      70000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  418500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2660000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               388965978800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      704000                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      28                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     1760                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       170750                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      25000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  283250                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                        513500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               388995480000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    29501200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles           15360                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                 27285                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      24                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     5588                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles                68165                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     15994500                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                    1350000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                22069500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      29382000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               388995570400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                       90400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                      226                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                        18000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                       5000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                   40500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                        386000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               388997882400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2312000                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                     5780                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       312500                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      65000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  605000                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2106000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               388998621600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      739200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                     1848                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                        97499                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      55000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  344999                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                        944501                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               391442483200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                  2443861600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles          893952                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles               1738981                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     495                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   205210                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles              5904444                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                   4956292423                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                  375690000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat              6646897423                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                    2443532999                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               391519631600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    77148400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   10718                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   192871                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     11816024                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                    5115000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                34833524                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      76761000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               391521838800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2207200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                     5518                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                        94500                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      50000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  319500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2711000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               391522674400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      835600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      12                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     2089                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       171749                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      55000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  419249                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       1045001                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               396373154400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                  4850480000                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles         1781760                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles               3454579                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      34                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   372270                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles             11753930                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                   9790984380                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                  745700000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat             13146634380                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                    4848665499                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               396450150000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    76995600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   10232                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   192489                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                      9774886                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                    5120000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                32814886                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      77914500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               396452386800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2236800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                       2                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     5592                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                        90000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      50000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  315000                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2982500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               396453265600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      878800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      19                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     2197                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       243600                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      50000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  468600                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                        972500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               401305059200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                  4851793600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles         1781760                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles               3455636                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     181                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   373365                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles             11756119                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                   9832352053                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                  745915000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat             13188969553                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                    4850060500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               401382043200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    76984000                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                    9616                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                   192460                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     10050095                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                    5125000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                33112595                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      78016500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               401383993600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     1950400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                       2                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     4876                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                        67000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      60000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  337000                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2725500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               401384738000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      744400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                       8                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     1861                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       271850                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      25000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  384350                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                        491000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               401398311600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    13573600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles            6528                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                 11400                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      43                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     5461                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles                28473                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                      1965500                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                     225000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                 2978000                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      13511000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               401398400000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                       88400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                      221                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                        18000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                       5000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                   40500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                        389500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Reordering start
+final_tick                               401400610400                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2210400                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     282                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     5526                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       228500                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      95000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  656000                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       2279500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Reordering end
+final_tick                               401412137200                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    11526800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                    9613                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    28817                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                      1037200                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                     735000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                 4344700                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      11521000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               401415974800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     3837600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                    3300                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     9594                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       571550                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                     240000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                 1651550                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       3840500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               401416822000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      847200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      86                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     2118                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       325999                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      70000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  640999                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                        850000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               401514966800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    98144800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles           13056                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                 69651                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   26100                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                    74748                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles               170614                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     70064000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                    7230000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat               102599000                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      98144000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               401515040800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                       74000                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                      51                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                      185                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                         1000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                       5000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                   23500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                         22000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+final_tick                               401517164000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                     2123200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                     5308                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       445000                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      45000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  647500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                       1941000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+final_tick                               401517862800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      698800                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                     1747                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                       108250                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      50000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  333250                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                        865500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+final_tick                               401530636800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                    12774000                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles            4236                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                  9353                       # Total accelerator cycles
+system.switch_cpus.idleCycles                     145                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                     8789                       # number of cpu cycles simulated
+system.switch_cpus.quiesceCycles                23146                       # Total number of cycles that CPU has spent quiesced or waiting for an interrupt
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                     23876300                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                    1930000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                32561300                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                      12392500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+final_tick                               401530736000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                       99200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                      248                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                            0                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                       5000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                   22500                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                        471000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Network end
+final_tick                               401531111600                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                      375600                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.numCycles                      939                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                        76500                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                      15000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat                  144000                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                        455000                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+final_tick                               402306036800                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
+sim_ticks                                   774925200                       # Number of ticks simulated
+system.acc0_datapath.dma_setup_cycles               0                       # Total number of cycles spent on setting up DMA transfers.
+system.acc0_datapath.sim_cycles                     0                       # Total accelerator cycles
+system.switch_cpus.idleCycles                   73585                       # Total number of cycles that the CPU has spent unscheduled due to idling
+system.switch_cpus.numCycles                  1937313                       # number of cpu cycles simulated
+system.acc0_datapath.clk_domain.clock            1000                       # Clock period in ticks
+system.clk_domain.clock                          1000                       # Clock period in ticks
+system.mem_ctrls.totQLat                    132347695                       # Total ticks spent queuing
+system.mem_ctrls.totBusLat                   47110000                       # Total ticks spent in databus transfers
+system.mem_ctrls.totMemAccLat               344342695                       # Total ticks spent from burst creation until serviced by the DRAM
+system.mem_ctrls.totGap                     774875500                       # Total gap between requests
+system.cpu_clk_domain.clock                       400                       # Clock period in ticks
+---------- End Simulation Statistics   ----------

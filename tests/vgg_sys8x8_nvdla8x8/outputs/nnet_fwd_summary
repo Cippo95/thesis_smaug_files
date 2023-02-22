@@ -1,0 +1,650 @@
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_maxpooling_nhwc_vec_fxp
+Cycle : 23887 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 23.329 mW
+Idle FU Cycles: 17942 cycles
+Avg FU Power: 2.09104 mW
+Avg FU Dynamic Power: 0.505929 mW
+Avg FU leakage Power: 1.58511 mW
+Avg MEM Power: 21.2379 mW
+Avg MEM Dynamic Power: 2.32691 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.27141e+06 uM^2
+FU Area: 131525 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 6
+Num of Adders (32-bit): 23
+Num of Bit-wise Operators (32-bit): 2
+Num of Shifters (32-bit): 7
+Num of Registers (32-bit): 20
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_maxpooling_nhwc_vec_fxp
+Cycle : 23886 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 25.6561 mW
+Idle FU Cycles: 17941 cycles
+Avg FU Power: 2.09106 mW
+Avg FU Dynamic Power: 0.50595 mW
+Avg FU leakage Power: 1.58511 mW
+Avg MEM Power: 23.565 mW
+Avg MEM Dynamic Power: 4.65402 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.27141e+06 uM^2
+FU Area: 131525 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 6
+Num of Adders (32-bit): 23
+Num of Bit-wise Operators (32-bit): 2
+Num of Shifters (32-bit): 7
+Num of Registers (32-bit): 20
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_maxpooling_nhwc_vec_fxp
+Cycle : 23767 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 28.0206 mW
+Idle FU Cycles: 17822 cycles
+Avg FU Power: 2.09359 mW
+Avg FU Dynamic Power: 0.508484 mW
+Avg FU leakage Power: 1.58511 mW
+Avg MEM Power: 25.927 mW
+Avg MEM Dynamic Power: 7.01599 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.27141e+06 uM^2
+FU Area: 131525 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 6
+Num of Adders (32-bit): 23
+Num of Bit-wise Operators (32-bit): 2
+Num of Shifters (32-bit): 7
+Num of Registers (32-bit): 20
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_maxpooling_nhwc_vec_fxp
+Cycle : 37848 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 32.6044 mW
+Idle FU Cycles: 28798 cycles
+Avg FU Power: 6.50239 mW
+Avg FU Dynamic Power: 0.530971 mW
+Avg FU leakage Power: 5.97142 mW
+Avg MEM Power: 26.102 mW
+Avg MEM Dynamic Power: 7.19104 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.62822e+06 uM^2
+FU Area: 488337 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 7
+Num of Adders (32-bit): 39
+Num of Bit-wise Operators (32-bit): 4
+Num of Shifters (32-bit): 11
+Num of Registers (32-bit): 1822
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_maxpooling_nhwc_vec_fxp
+Cycle : 22752 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 35.4142 mW
+Idle FU Cycles: 17007 cycles
+Avg FU Power: 2.09787 mW
+Avg FU Dynamic Power: 0.512757 mW
+Avg FU leakage Power: 1.58511 mW
+Avg MEM Power: 33.3163 mW
+Avg MEM Dynamic Power: 14.4053 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.27141e+06 uM^2
+FU Area: 131525 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 6
+Num of Adders (32-bit): 23
+Num of Bit-wise Operators (32-bit): 2
+Num of Shifters (32-bit): 7
+Num of Registers (32-bit): 20
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_maxpooling_nhwc_vec_fxp
+Cycle : 30500 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 36.3296 mW
+Idle FU Cycles: 23202 cycles
+Avg FU Power: 4.03341 mW
+Avg FU Dynamic Power: 0.513684 mW
+Avg FU leakage Power: 3.51972 mW
+Avg MEM Power: 32.2962 mW
+Avg MEM Dynamic Power: 13.3852 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.42993e+06 uM^2
+FU Area: 290041 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 7
+Num of Adders (32-bit): 39
+Num of Bit-wise Operators (32-bit): 4
+Num of Shifters (32-bit): 11
+Num of Registers (32-bit): 786
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_maxpooling_nhwc_vec_fxp
+Cycle : 27239 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 39.1879 mW
+Idle FU Cycles: 20769 cycles
+Avg FU Power: 2.79122 mW
+Avg FU Dynamic Power: 0.497348 mW
+Avg FU leakage Power: 2.29388 mW
+Avg MEM Power: 36.3966 mW
+Avg MEM Dynamic Power: 17.4856 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.33078e+06 uM^2
+FU Area: 190892 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 7
+Num of Adders (32-bit): 39
+Num of Bit-wise Operators (32-bit): 4
+Num of Shifters (32-bit): 11
+Num of Registers (32-bit): 268
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_maxpooling_nhwc_vec_fxp
+Cycle : 11410 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 65.6904 mW
+Idle FU Cycles: 8658 cycles
+Avg FU Power: 2.52429 mW
+Avg FU Dynamic Power: 0.663486 mW
+Avg FU leakage Power: 1.86081 mW
+Avg MEM Power: 63.1661 mW
+Avg MEM Dynamic Power: 44.2551 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.29575e+06 uM^2
+FU Area: 155865 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 7
+Num of Adders (32-bit): 39
+Num of Bit-wise Operators (32-bit): 4
+Num of Shifters (32-bit): 11
+Num of Registers (32-bit): 85
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 29015 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 42.7054 mW
+Idle FU Cycles: 22466 cycles
+Avg FU Power: 4.45312 mW
+Avg FU Dynamic Power: 2.21524 mW
+Avg FU leakage Power: 2.23788 mW
+Avg MEM Power: 38.2523 mW
+Avg MEM Dynamic Power: 19.3413 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.33222e+06 uM^2
+FU Area: 192339 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 10
+Num of Adders (32-bit): 96
+Num of Bit-wise Operators (32-bit): 9
+Num of Shifters (32-bit): 14
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 156.52 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 141.999 mW
+Avg MEM Dynamic Power: 123.088 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 158.585 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 144.064 mW
+Avg MEM Dynamic Power: 125.153 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 160.65 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 146.128 mW
+Avg MEM Dynamic Power: 127.217 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 162.714 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 148.193 mW
+Avg MEM Dynamic Power: 129.282 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 164.779 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 150.257 mW
+Avg MEM Dynamic Power: 131.346 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 166.843 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 152.322 mW
+Avg MEM Dynamic Power: 133.411 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 168.908 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 154.386 mW
+Avg MEM Dynamic Power: 135.475 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 170.972 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 156.451 mW
+Avg MEM Dynamic Power: 137.54 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 173.037 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 158.516 mW
+Avg MEM Dynamic Power: 139.605 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 175.101 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 160.58 mW
+Avg MEM Dynamic Power: 141.669 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 177.166 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 162.645 mW
+Avg MEM Dynamic Power: 143.734 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 179.23 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 164.709 mW
+Avg MEM Dynamic Power: 145.798 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 181.295 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 166.774 mW
+Avg MEM Dynamic Power: 147.863 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 4637 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 183.359 mW
+Idle FU Cycles: 1297 cycles
+Avg FU Power: 14.5212 mW
+Avg FU Dynamic Power: 12.4859 mW
+Avg FU leakage Power: 2.03536 mW
+Avg MEM Power: 168.838 mW
+Avg MEM Dynamic Power: 149.927 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.31353e+06 uM^2
+FU Area: 173640 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 8
+Num of Adders (32-bit): 80
+Num of Bit-wise Operators (32-bit): 8
+Num of Shifters (32-bit): 8
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 5592 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 158.013 mW
+Idle FU Cycles: 2149 cycles
+Avg FU Power: 12.7002 mW
+Avg FU Dynamic Power: 10.4012 mW
+Avg FU leakage Power: 2.29899 mW
+Avg MEM Power: 145.313 mW
+Avg MEM Dynamic Power: 126.402 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.33694e+06 uM^2
+FU Area: 197058 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 10
+Num of Adders (32-bit): 96
+Num of Bit-wise Operators (32-bit): 10
+Num of Shifters (32-bit): 12
+Num of Registers (32-bit): 115
+===============================
+        Aladdin Results        
+===============================
+===============================
+        Aladdin Results        
+===============================
+Running : ./outputs/nnet_fwd
+Top level function: smv_matrix_multiply_transpose_nc_vec_fxp
+Cycle : 10106 cycles
+Upsampled Cycle : 0 cycles
+Avg Power: 96.0735 mW
+Idle FU Cycles: 7731 cycles
+Avg FU Power: 5.36015 mW
+Avg FU Dynamic Power: 3.02739 mW
+Avg FU leakage Power: 2.33276 mW
+Avg MEM Power: 90.7134 mW
+Avg MEM Dynamic Power: 71.8024 mW
+Avg MEM Leakage Power: 18.911 mW
+Total Area: 1.34079e+06 uM^2
+FU Area: 200902 uM^2
+MEM Area: 1.13989e+06 uM^2
+Num of Multipliers (32-bit): 11
+Num of Adders (32-bit): 100
+Num of Bit-wise Operators (32-bit): 11
+Num of Shifters (32-bit): 18
+Num of Registers (32-bit): 88
+===============================
+        Aladdin Results        
+===============================

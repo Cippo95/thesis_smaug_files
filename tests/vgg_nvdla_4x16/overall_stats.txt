@@ -1,0 +1,49 @@
+*************************************************************************
+Author: Filippo Landi
+
+Ticks are equal to picoseconds (ps), 10^(-12) seconds.
+E.G clock frequency of 1GHz (clock period of 1ns) is 1000 ticks/ps.
+
+Systolic array stats are generated only if present!
+
+CPU is quiesced (disconnected from power) when accelerators are running.
+*************************************************************************
+
+[Raw total statistics]
+
+Ticks simulated:    47413002400
+CPU cycles simul.:  21364240
+CPU idle cycles:    567702
+CPU quiesced cyc.:  97168266
+Aladdin cycles:     39167746
+DMA setup cycles:   6485772
+Bus transfer ticks: 2975485000
+Systolic ticks:    
+
+[Clock speeds in GHz]
+
+CPU               2.5
+Aladdin:          1
+System/Sys.Array: 1
+
+[Everything in ticks!]
+
+Inference:     47413002400
+CPU ticks:     8545696000
+CPU idle:      227080800
+CPU quiesce:   38867306400
+Aladdin:       39167746000
+DMA setup:     6485772000
+Bus transfer:  2975485000
+Systolic:     
+
+[Equivalent time in ms]
+
+Inference:     47.413
+CPU time:      8.5457
+CPU idle:      0.227081
+CPU quiesce:   38.8673
+Aladdin:       39.1677
+DMA setup:     6.48577
+Bus transfer:  2.97548
+Systolic:      inf

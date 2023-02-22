@@ -1,0 +1,164 @@
+---------- Begin Simulation Statistics ----------
+# Stats desc: Network start
+sim_ticks                                    12286000                       # Number of ticks simulated
+system.switch_cpus.numCycles                    30715                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+sim_ticks                                    21064000                       # Number of ticks simulated
+system.switch_cpus.numCycles                    52660                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+sim_ticks                                     4502400                       # Number of ticks simulated
+system.switch_cpus.numCycles                    11256                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+sim_ticks                                    48723200                       # Number of ticks simulated
+system.switch_cpus.numCycles                    59971                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+sim_ticks                                      289600                       # Number of ticks simulated
+system.switch_cpus.numCycles                      724                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+sim_ticks                                     2298800                       # Number of ticks simulated
+system.switch_cpus.numCycles                     5747                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+sim_ticks                                      786800                       # Number of ticks simulated
+system.switch_cpus.numCycles                     1967                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+sim_ticks                                    23641200                       # Number of ticks simulated
+system.switch_cpus.numCycles                    23962                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+sim_ticks                                       21200                       # Number of ticks simulated
+system.switch_cpus.numCycles                       53                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+sim_ticks                                     2037600                       # Number of ticks simulated
+system.switch_cpus.numCycles                     5094                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+sim_ticks                                      836800                       # Number of ticks simulated
+system.switch_cpus.numCycles                     2092                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+sim_ticks                                    12830400                       # Number of ticks simulated
+system.switch_cpus.numCycles                    10166                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+sim_ticks                                      101600                       # Number of ticks simulated
+system.switch_cpus.numCycles                      254                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+sim_ticks                                     1626000                       # Number of ticks simulated
+system.switch_cpus.numCycles                     4065                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+sim_ticks                                      657200                       # Number of ticks simulated
+system.switch_cpus.numCycles                     1643                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+sim_ticks                                     5522000                       # Number of ticks simulated
+system.switch_cpus.numCycles                     5395                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+sim_ticks                                       90400                       # Number of ticks simulated
+system.switch_cpus.numCycles                      226                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Reordering start
+sim_ticks                                     1988000                       # Number of ticks simulated
+system.switch_cpus.numCycles                     4970                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Reordering end
+sim_ticks                                    10236000                       # Number of ticks simulated
+system.switch_cpus.numCycles                    25590                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+sim_ticks                                     3665200                       # Number of ticks simulated
+system.switch_cpus.numCycles                     9163                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+sim_ticks                                      803600                       # Number of ticks simulated
+system.switch_cpus.numCycles                     2009                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+sim_ticks                                    53804000                       # Number of ticks simulated
+system.switch_cpus.numCycles                    44256                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+sim_ticks                                       89600                       # Number of ticks simulated
+system.switch_cpus.numCycles                      224                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+sim_ticks                                     1862800                       # Number of ticks simulated
+system.switch_cpus.numCycles                     4657                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+sim_ticks                                      919200                       # Number of ticks simulated
+system.switch_cpus.numCycles                     2298                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+sim_ticks                                    21200000                       # Number of ticks simulated
+system.switch_cpus.numCycles                     8328                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+sim_ticks                                       68000                       # Number of ticks simulated
+system.switch_cpus.numCycles                      170                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation start
+sim_ticks                                     1928400                       # Number of ticks simulated
+system.switch_cpus.numCycles                     4821                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor preparation end
+sim_ticks                                      758400                       # Number of ticks simulated
+system.switch_cpus.numCycles                     1896                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization start
+sim_ticks                                     5119600                       # Number of ticks simulated
+system.switch_cpus.numCycles                     8187                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Tensor finalization end
+sim_ticks                                       68000                       # Number of ticks simulated
+system.switch_cpus.numCycles                      170                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+# Stats desc: Network end
+sim_ticks                                      359200                       # Number of ticks simulated
+system.switch_cpus.numCycles                      898                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
+---------- Begin Simulation Statistics ----------
+sim_ticks                                   130328800                       # Number of ticks simulated
+system.switch_cpus.numCycles                   325822                       # number of cpu cycles simulated
+---------- End Simulation Statistics   ----------
