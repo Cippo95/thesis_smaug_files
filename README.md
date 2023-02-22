@@ -9,4 +9,4 @@ Here I share my simulation results and configuration files.
 - src: SMAUG sources modified for different configurations.
 - tests: stats from different networks and configurations.
 
-With the files uploaded here you should be able to replicate my tests.
+With the files uploaded here you should be able of replicating my tests.
