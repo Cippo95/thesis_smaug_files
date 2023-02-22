@@ -1,0 +1,17 @@
+--------- Begin Simulation Statistics ----------
+# Stats desc:
+final_tick
+sim_ticks
+system.acc0_datapath.dma_setup_cycles
+system.acc0_datapath.sim_cycles
+system.mem_ctrls.tot
+system.switch_cpus.idleCycles
+system.switch_cpus.numCycles
+system.switch_cpus.quiesceCycles
+system.systolic_array_acc.idleCycles
+system.systolic_array_acc.numCycles
+system.systolic_array_acc.tickCycles
+system.acc0_datapath.clk_domain.clock
+system.clk_domain.clock
+system.cpu_clk_domain.clock
+---------- End Simulation Statistics   ----------

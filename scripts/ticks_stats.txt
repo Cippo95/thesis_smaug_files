@@ -1,0 +1,5 @@
+--------- Begin Simulation Statistics ----------
+# Stats desc:
+sim_ticks
+system.switch_cpus.numCycles
+---------- End Simulation Statistics   ----------
