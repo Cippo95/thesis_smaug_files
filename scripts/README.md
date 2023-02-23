@@ -16,3 +16,8 @@ You can redirect the output to a file.
 `ticks_stats.txt` takes just the ticks for all the phases of simulation.
 
 You can see in the tests folder files produced with these methods.
+
+`lenet5_by_layer.sh` and `vgg_by_layer.sh` are scripts to get the execution time in ticks layer by layer of a net.  
+They are intended to be used with "just_ticks.txt" of the specified (lenet or vgg) network test.  
+With this I can confront the convolutional layers and see if the other ones stay the same...  
+I expect some difference due to Aladdin (not really deterministic) nature.
